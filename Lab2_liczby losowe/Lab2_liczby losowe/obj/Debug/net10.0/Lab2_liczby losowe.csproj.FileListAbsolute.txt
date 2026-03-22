@@ -1,0 +1,28 @@
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.AssemblyInfoInputs.cache
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.AssemblyInfo.cs
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.exe
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.deps.json
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.runtimeconfig.json
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.dll
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.pdb
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.dll
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\refint\Lab2_liczby losowe.dll
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.pdb
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.genruntimeconfig.cache
+C:\Users\Patryk\source\repos\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\ref\Lab2_liczby losowe.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.exe
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.deps.json
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.runtimeconfig.json
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\bin\Debug\net10.0\Lab2_liczby losowe.pdb
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.AssemblyInfoInputs.cache
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.AssemblyInfo.cs
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\refint\Lab2_liczby losowe.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.pdb
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\Lab2_liczby losowe.genruntimeconfig.cache
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab2_liczby losowe\Lab2_liczby losowe\obj\Debug\net10.0\ref\Lab2_liczby losowe.dll

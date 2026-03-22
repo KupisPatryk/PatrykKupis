@@ -1,0 +1,28 @@
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.exe
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.deps.json
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.runtimeconfig.json
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.dll
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.pdb
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.AssemblyInfoInputs.cache
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.AssemblyInfo.cs
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.dll
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\refint\Lab1_FirstProgram.dll
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.pdb
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.genruntimeconfig.cache
+C:\Users\Patryk\source\repos\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\ref\Lab1_FirstProgram.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.exe
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.deps.json
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.runtimeconfig.json
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\bin\Debug\net10.0\Lab1_FirstProgram.pdb
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.AssemblyInfoInputs.cache
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.AssemblyInfo.cs
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\refint\Lab1_FirstProgram.dll
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.pdb
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\Lab1_FirstProgram.genruntimeconfig.cache
+C:\Users\Patryk\OneDrive - Studenci Akademii im. Jakuba z Paradyża\Dokumenty\Szkoła\podtawy programowania laborki\Lab1_FirstProgram\Lab1_FirstProgram\obj\Debug\net10.0\ref\Lab1_FirstProgram.dll
