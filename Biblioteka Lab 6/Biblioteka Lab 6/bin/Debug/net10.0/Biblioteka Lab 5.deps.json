@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Biblioteka Lab 5/1.0.0": {
+        "runtime": {
+          "Biblioteka Lab 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteka Lab 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
